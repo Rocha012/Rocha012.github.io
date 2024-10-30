@@ -2,6 +2,15 @@
 <html>
 <head>
 <title>Page Title</title>
+
+h1 {
+  text-align: center;
+  text-decoration-line: overline underline;
+  text-decoration-color: ffff66;
+  text-shadow: 0 0 3px #ff6666, 0 0 5px #3399ff;
+  color:  #ff0000
+}
+
 </head>
 <body>
 
