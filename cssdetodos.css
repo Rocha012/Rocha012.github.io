@@ -11,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FFCBDB;
+  background-color:#FFCBDB;
 border: 3px solid;
   border-radius: 15px;
 text-align: center;
@@ -24,8 +24,8 @@ justify-content: center;
 
 li {
   float: left;
-border-right: 1px solid #FFCBDB;
-background-color: #FFCBDB
+border-right: 1px solid#FFCBDB;
+background-color:#FFCBDB
 
 }
 
